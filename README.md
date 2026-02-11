@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | Backend & Machine Learning Enthusiast**  
 💡 I build scalable web applications and data-driven solutions that solve real-world problems.
 
----
+
 
 ## 🧠 About Me
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about **backend development, APIs, databases, ML basics, or CS fundamentals**
 - ⚡ Fun fact: I love converting **college ideas into real, usable products** 🚀
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@
 ### 🎨 Tools & UI
 `Figma` `Canva` `GitHub` `NPM`
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -48,7 +48,7 @@
 
 📌 *More projects available in my repositories — always improving & refactoring.*
 
----
+
 
 ## 🌐 Connect With Me
 
